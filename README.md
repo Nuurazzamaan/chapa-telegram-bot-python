@@ -23,7 +23,7 @@
 ### Make sure to set your `.env`
 
 - `CHAPA_TOKEN = 'CHAPUBK_TEST-ZMSKgrlyU5CVLZTr6j4T04RlgiXp1QAJ'`
-- `BOT_TOKEN = '6858738346:AAGK3Go9b0SbNYKBObIS9zljVTIU5aBE5XI'`
+- `BOT_TOKEN = '6858738346:'`
 
 `CHAPA_TOKEN` is payment token you get after successfully integrating Chapa with `@botfather`
 
